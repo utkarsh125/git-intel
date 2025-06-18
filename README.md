@@ -33,8 +33,6 @@ A detailed overview of the architecture involves the following
   <img src="https://github.com/user-attachments/assets/69056f6f-5582-4a22-b95f-e756481fce51"/>
 </p>
 
-## Pending Integrations 
-- [ ] RazorPay Portal and Token management
 
 ---
 
